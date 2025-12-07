@@ -13,8 +13,7 @@ A fully customizable Flutter Authentication App with clean UI and screens for Lo
 - Styled using Flutter's Material widgets and Google Fonts  
 - Asset-based logo included  
 
-
+![Sign_up_page](https://github.com/user-attachments/assets/5ee8b9d6-262c-4999-ac86-90b3ed4677b5)
 ![Forgot_pasword_page](https://github.com/user-attachments/assets/3ca7836d-e6de-4c32-8cca-4fa4c28c8eeb)
-![Uploading Sign_up_page.jpg…]()
 ![Login_page](https://github.com/user-attachments/assets/5d9344bb-5917-4ba4-9805-57f293fc8b67)
 
